@@ -2,14 +2,14 @@
  frontend mentor chanllenge
 
 Stats Preview card component design - frontend mentor newbie catagory challenge 
+made with :
+- 🚀 HTML
+- 🚀 CSS
 
-Desktop View of the design :
+check out the website live 👉 @ 🚀 https://leoanimesh.github.io/stats-preview-card-component-design/
+
+Take a glimse of the design 👇
 
 ![desktop-design](https://user-images.githubusercontent.com/77456003/116783214-1d249b80-aaab-11eb-8cf2-d4d239636684.jpg)
 
-mobile view of the design :
-
-![mobile-design](https://user-images.githubusercontent.com/77456003/116783206-0f6f1600-aaab-11eb-81bf-1165861197aa.jpg)
-
-
-Do suggest if any change is required.
+Thanks for visiting ❤
